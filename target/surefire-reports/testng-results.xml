@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="30256" started-at="2019-05-04T10:53:13Z" finished-at="2019-05-04T10:53:44Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="30256" started-at="2019-05-04T10:53:13Z" finished-at="2019-05-04T10:53:44Z">
+      <class name="Test_Techbodi.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test_Techbodi.NewTest@5a39699c]" name="beforeMethod" is-config="true" duration-ms="6237" started-at="2019-05-04T10:53:13Z" finished-at="2019-05-04T10:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Test_Techbodi.NewTest@5a39699c]" name="f" duration-ms="7850" started-at="2019-05-04T10:53:20Z" finished-at="2019-05-04T10:53:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Test_Techbodi.NewTest -->
+      <class name="Test_Techbodi.TestiNgWithMaven">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Test_Techbodi.TestiNgWithMaven@3cb5cdba]" name="beforeMethod" is-config="true" duration-ms="5809" started-at="2019-05-04T10:53:28Z" finished-at="2019-05-04T10:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Test_Techbodi.TestiNgWithMaven@3cb5cdba]" name="f" duration-ms="8131" started-at="2019-05-04T10:53:33Z" finished-at="2019-05-04T10:53:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Test_Techbodi.TestiNgWithMaven@3cb5cdba]" name="afterMethod" is-config="true" duration-ms="2171" started-at="2019-05-04T10:53:41Z" finished-at="2019-05-04T10:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Test_Techbodi.TestiNgWithMaven -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
